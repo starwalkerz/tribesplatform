@@ -1,0 +1,173 @@
+Tribes Whitepaper
+
+Introduction
+
+The Internet offers the human kind for the first time in recorded history, means to communicate instantly across the width of our existence, directly and through a great choice of service providers. The Blockchain does the same for our economy, and our society at large. We need to reinvent the tools to run our economy and our society to empower the entirety of human kind, and to make these tools relatively easy to use for wide adoption. The future of our species rests upon the shoulders of those living today. In diverse aspects, we as a global community face wide economical, environmental and social challenges caused by most part, our own management skills - or lack thereof. The Industrial Revolution greatly empowered economies of scale, and increased the production capacity of our societies, in large batches of distinct products. As an unintended consequence, this great gift caused great waste of resources of all kinds and social as well as environmental hazards at it's wake. By hindsight and through our advanced tools, we know what is causing the damage. We have the data. The data just is distributed unequally... and managed with heavy bureaucracy. The Blockchain changes this. Through the Blockchain, we are able to aggregate our data - and our means of production - in a decentralized, efficient manner, guided by our most advanced data analytics and our brightest minds. Well, ideally.
+
+The Blockchain at least ENABLES us to build ourselves a society that supports us all with basic means, opportunities, knowledge and civilization in harmony with our planet.
+
+Background
+
+The Ethereum blockchain originally developed to empower corporations, offers a feasible generic toolkit for building tools to provide and run distributed services. However, any blockchain is inherently a centrally managed organization - by it's developer team. This means that while the blockchain itself can be entirely open for participation, as a social organization each user of the said blockchain subscribes to pre-set rules set by the developer team.
+
+This creates a legitimate need for a diversity of platforms.
+
+Tribes Platform is a fork of the Ethereum blockchain, set up as a toolkit, easy to clone, easy to deploy, easy to fit with a variety of off-chain tools.
+
+I, Tuomas Santakallio (alias Starwalker) wrote this whitepaper to provide my two-year-old distributed solar power prototype project with tools needed to run the operation regardless of what happens to and with the Ethereum blockchain. I see the value in the toolkit, so inspired by my girlfriend (the pressure of a long-distance relationship to an artist makes me creative), I decided to make this project available for the public, and to form a dedicated software project around the idea. I hope to make it work, actually because it could empower not only my solar power project, but also become a successful venture itself.
+
+I have some previous experience in running blockchain -related startups, the most noteworthy being Mundobitcoin. We developed an ATM and money transfer network that didn't take off due to regulatory complexity in it's domicile Costa Rica, but on paper - as a plan - it worked wonderfully. I am determined to use the knowledge and the experience to build a blockchain service upon a solid foundation.
+
+I've self-studied solidity and the Ethereum platform, and I have gained some insight into programming and designing DAO framework and programmable blockchains, what the two years of Ethereum development on Github and public forums has allowed. I've been in contact with some of Ethereum's developers and some other Ethereum -related startup companies regarding my solar power project, and thus came into the conclusion that another platform like Ethereum is necessary, and provides much-needed choice for diverse applications.
+
+In 2015, my solar power project took part in the Climate-KIC business idea competition as "Stardust Solar". Today, it's independently running out of my home laboratory. I've been in talks with the Ministry of Industry, Trade and Cooperatives of the Republic of Kenya on running an independent power producer during the Nairobi Innovation Week of 2017, and I've been in negotiations with intended local business partner companies for running the operations and for providing staff, services and infrastructure. I intend to open a Mauritius -based startup company for managing operations on the African continent, because Mauritius has blockchain -friendly regulatory environment. I intend to open a France or Spain -based European startup company for running operations within the European Union. Obviously, I am looking out for partners and teammates.
+
+Details
+
+Tribes Platform is intended to be a user-friendly blockchain development environment and a dApp framework for running real-world services. Tribes Platform is supposed to be easy to use, and easy to clone, and easy to retrofit for different purposes, different types of societies. Tribes Platform provides means for running the affairs of your digital tribe as you see fit.
+
+The platform should offer a framework for developers as easy as Web/JavaScript and as open as the current open source standards apply. It is acknowledged that the developer team of the Tribes Platform effectively acts as the board of directors of the Tribes Platform, as well as all affiliated blockchains with the Tribes Platform but not of any blockchains developed by the users as forks of the Tribes Platform. Recognition as an affiliate blockchain must be sought from the board of directors of the company managing the development of the Tribes Platform. It is acknowledged that these rules apply to all dAppstores connected with any blockchains developed as the Tribes Platform, its affiliates or user forks of the Tribes Platform.
+
+The intended components:
+
+-Tribes Platform blockchain
+-Wallet client(s)
+-Nodes: Supernode (with capacity to handle more transactions on more powerful hardware), Regular Node (fork of the Ethereum full node with the code changes required to launch the Tribes Platform), Light Node (fork of the Ethereum light node with the code changes required to launch the Tribes Platform)
+-Tribes dAppstore
+-Tribes API(s)
+-Solidity/Tribes -programming framework for standardized, simplified development
+-Tribes Fundraiser ERC-20 token released on the Ethereum platform
+
+The intended development roadmap:
+
+First, we'll clone Ethereum into a sandbox. 
+
+We'll integrate the first production chain with TenderMint and produce classes of supernodes, full nodes and light nodes. 
+
+After the nodes have been deployed to run the network, the wallet client is modified to support instantly deployable contract templates, which themselves are just generic contracts. 
+
+The wallet client is tested within a non-technical customer group. 
+
+After initial test runs have been completed, there should be an ICO of the actual Tribes Blockchain
+
+At this point, the blockchain is integrated with the first practical use case, distributed energy production. 
+
+There's a second use case possibly in running a fablab on a blockchain, where the most feasible first practical application is to protect artwork through licenses written as digital contracts. 
+
+Assuming the tests run successfully, the dAppstore can be deployed in the wallet, and API's for UI development written for release. 
+
+At this point, we'll go public and release a dApp for cloning the blockchain itself with features chosen by the user. 
+
+We'll run several lab blockchains on the side, testing different technical features for industrial use cases. 
+
+At this point we can release a framework for writing digital contracts, and a bugfixing bot too. Well, perhaps earlier. Let's get this project started first.
+
+Project timeline:
+
+Quite open. In my view, we can achieve the above outlined with a proficient team until Christmas, 2017.
+
+Strategies
+
+ICO:
+
+Tribes Platform shall run an open-ended ICO for the month of [would like August, but any], 2017. The aim of the ICO is to finance the development of the Tribes Platform. There shall be a legal entity managing the ICO and token distribution.
+
+Venture Capital:
+
+Beginning with Slush, 2017 the project shall seek venture capital partners.
+
+Developer Team:
+
+Developer Team shall be recruited from gifted Ethereum developers of good reputation and outstanding knowledge.
+
+Governance:
+
+Governance by vote through token holdership. Those who work earn tokens, and those who earn tokens can gain more power. Typical open source but with decentralized voting. VETO for the actual company board of directors, who are responsible for the legal side of things. I suppose we can do a Spanish and/or French organization and a Mauritius startup... since these jurisdictions are blockchain-friendly, and accessible to me. Local practical real-world applications go through direct partnerships.
+
+Corporate structure:
+
+-Mauritius startup as the headquarters of the project
+-EU company as the operational headquarters for managing the initial start of the project and all business within the EU.
+-Kenya partnership and other local partnerships for running real world projects, such as a decentralized independent power producer
+
+Partnerships:
+
+-Developer partnerships
+-Tokens hosted on the Tribes Platform
+-Off-chain services
+-Hosting of blockchain nodes
+-Real world projects
+-Customer relations
+-Venture capital partnerships
+-Legal counsel
+-Partnerships with corporate and public entities for projects intended for use within their internal operations
+
+Legal aspects:
+
+-Separation of duties and operations provides a simplistic legal framework for developing sustainable services on blockchain technology.
+
+Real world projects:
+
+-Decentralized independent power producer in Kenya
+-Decentralized copyright for physical artwork
+Other projects welcome.
+
+Benefits
+
+What Tribes can do?
+
+Tribes Platform provides you the user, means to run your own organization, whatever kind it might be, with means of blockchain technology, and to do so with your own developer team and management structure. By using the original, Tribes Platform -blockchain, you subscribe to unique, innovative features designed to run your dApp on a robust platform designed to be seamlessly connected with the IoT and Web services.
+
+Tribes Platform is designed to be fully compatible with the Ethereum Homestead versions BEFORE releases with the Casper proof-of-stake framework. Therefore, ERC-20 tokens run on the Tribes Platform. Any further versions of the Tribes Platform also are intended to be compatible with the Ethereum Homestead versions BEFORE releases with the Casper proof-of-stake framework. This makes all official versions of the Tribes Platform backward-compatible.
+
+Tribes Platform is designed to make adoption substantially easy for non-technical users. The regular user can skip the jargon, use the dApp and the dAppstore, and enjoy the benefits of a decentralized service without having to think about the underlying technology.
+
+Tribes Platform is designed to make connection with IoT and Web services straightforward through development of a programming framework and API's necessary to connect with off-chain services. This makes connecting devices of all kinds, artificial intelligence, big data or Web services with the official releases of the Tribes Platform standardized.
+
+Examples
+-Run your own cooperative. Whether you're a minibus operator or a trade stall owner, you'll save money and time by placing your records onto a custom blockchain, and transaction fees low by essentially buying the service from yourself and your peers.
+-Run an industry association with tailored features. Choose to try a tailored Ethereum -type blockchain, and maintain full control of your finances, together with your partners and possibly even competition.
+-Run a chamber of commerce. Register all kinds of enterprise with minimum hassle, and provide them services directly through your members. Make yourself relevant again.
+-Run a public service, anything from bus tickets to social security or hospital patient records
+-If you're an artist, run your own record company or art dealer with your peers. Through Tribes, you'll not only have you dapp and it's web integration available with a few clicks, you'll be able to choose the blockchain it runs on.
+-Run a trade union with all kinds of services from education to healthcare, bonds and insurances and deposit-taking revolving funds on the blockchain, and fire the management that's probably corrupt anyway.
+-Run an IoT platform, placing all the sensors as nodes on a single blockchain, and run it together with your partners.
+-Don't only buy the hype. Support the development of your own, custom blockchain. There are some great projects out there. Tribes aims to aggregate these projects as services on instantly deployable contracts on custom blockchains.
+
+
+Why is your own blockchain better than running Ethereum tokens?
+
+Congestion is avoided through more choice or regulated number of users on the platform.
+Autonomy for development and management makes running business operations on the platform predictable.
+The blockchain operator is able to choose their own features.
+
+Why Tribes does not compete with Ethereum?
+
+Tribes is different, therefore the users are likely to be organizations in need for:
+
+-Custom solutions
+-Easy to use blockchain
+-Digital autonomy
+
+Conclusion
+
+The success of this project rests entirely upon the shoulders of the eventual developer team.
+
+Let's make it work!
+
+I would like to thank the following persons for the idea:
+
+Fred Mazo for telling me to write a whitepaper.
+Mariano BolaÃ±os for his psychological support and training he has provided me in running feasible international business.
+Madjid Akkouchi for helping me to develop the hardware that made this idea possible in the first place.
+Mercy Obukwa for being my beloved Muse and inspiration through these years, and for her neverending patience.
+Andreas Antonopoulos for confirming me that "Bitcoin needs a Redhat" (LaBitConf, Buenos Aires, December 2013).
+The Ethereum developer team for being my rolemodels.
+Satoshi Nakamoto for making all this possible.
+
+Contact
+
+Tuomas Santakallio
+irc.freenode.net ##tribesplatform Starwalker_
+tom dot starwalker at gmail dot com
+
